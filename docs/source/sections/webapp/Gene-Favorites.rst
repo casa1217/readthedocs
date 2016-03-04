@@ -1,8 +1,7 @@
 *******************
 Gene Favorites
 *******************
-
-Background Gene Favorites text here.
+Gene Favorites allows you to save selected information from a wide range of Gene identifiers. Unique identifiers are assigned to genes with defining sequences, genes with known map positions, and genes inferred from a distinct sequence of nucleotides forming part of a chromosome, the order of which determines the order of monomers in a polypeptide or nucleic acid molecule which a cell (or virus) may synthesize. These gene identifiers are saved for selection or use in Workbooks. 
 
 * Concept of Gene Favorites, what they are and why you use them
 * What terminology is used for genes
