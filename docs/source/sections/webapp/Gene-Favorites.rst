@@ -9,7 +9,7 @@ Gene Favorites allows you to save selected information from a wide range of Gene
 
 Gene Favorite allows you to create a Gene data set (specific to a particular Gene or Project) to analyze. You can build your Gene sequences from thousands of distinct taxonomic identifiers, ranging from viruses to bacteria to eukaryotes or representing specific chromosomes, organelles, plasmids, viruses, transcripts, or specific proteins. From the Menu - Gene selection, you can Manage Gene Favorite, Create Gene Favorite(s) or Select Genes for a New Workbook analysis
 
-**How Do I begin?**
+**HOW DO I BEGIN?**
 
 To create a new Gene Favorite - 
   *  You begin by naming the data set (Gene Type or Project Specific); you can create many Favorites and select them when you run you analysis. 
