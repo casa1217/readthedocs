@@ -15,6 +15,8 @@ To create a new Gene Favorite -
   *  You begin by naming the data set (Gene Type or Project Specific); you can create many Favorites and select them when you run you analysis. 
   *  Next select the Gene(s) you’re interested in (you can upload a specific list you’ve previously created/stored, select new Genes by typing them into the input box, or to aid in Gene selection, you can access the HGNC portal (Hugo Gene Nomenclature Committee) via the "View Gene Identifiers" link under this Menu selection. This allows you to focus on specific results or quarries.
 
+**What Terminology is Used for Genes?**
+  * The `National Human Genome Research Institute (NHGRI) <http://www.genome.gov/glossary/index.cfm>`_ created the Talking Glossary of Genetic Terms to help everyone understand the terms and concepts used in genetic research.  In addition to definitions, specialists in the field of genetics share their descriptions of terms, and many terms include images, animation and links to related terms
 
 * What terminology is used for genes
 * How do I find the genes
