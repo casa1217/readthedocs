@@ -11,7 +11,7 @@ Gene Favorite allows you to create a Gene data set (specific to a particular Gen
 
 **HOW DO I BEGIN?**
 
-To create a new Gene Favorite - 
+To create a New Gene Favorite - 
   *  You begin by naming the data set (Gene Type or Project Specific); you can create many Favorites and select them when you run you analysis. 
   *  Next select the Gene(s) you’re interested in (you can upload a specific list you’ve previously created/stored, select new Genes by typing them into the input box, or to aid in Gene selection, you can access the HGNC portal (Hugo Gene Nomenclature Committee) via the "View Gene Identifiers" link under this Menu selection. This allows you to focus on specific results or quarries.
 
