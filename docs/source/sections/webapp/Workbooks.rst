@@ -26,6 +26,21 @@ You will then select Genes or Variables (or, optionally – both)
   • Genes - 
   • Variables - 
 
+Analysis Type Description
+-------------------------
+**Bar Chart** - (This bar chart generates vertical lines to represent the type of data being used. One axis shows the information being used while the other is the y axis data chosen in the edit analysis settings). 
+
+**Histogram** - 
+
+**Scatter Plot** - 
+
+**Violin Plot** - 
+
+**Violin Plot with axis swap** - 
+
+**Chubby Hole Plot** - 
+
+
 Sample Workbooks
 ----------------
 The sample workbooks can be found in the menu bar under the Workbooks tab. This has been created to be as a guide for the user to see what is the maximum functionality of the workbooks are.
@@ -81,20 +96,6 @@ Analysis Type
 =============
 The Sample Analyses provide you with the ability to quickly create a new analysis chart or plot to compare worksheets or workbooks. 
 
-Bar Chart
----------
-This bar chart generates vertical lines to represent the type of data being used. One axis shows the information being used while the other is the y axis data chosen in the edit analysis settings. 
-
-Histogram
----------
-Scatter Plot
-------------
-Violin Plot
-------------
-Violin Plot with axis swap
---------------------------
-Chubby Hole Plot
-----------------
 
 Edit Analysis Settings
 ======================
