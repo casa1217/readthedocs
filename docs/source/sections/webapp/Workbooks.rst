@@ -28,37 +28,99 @@ You will then select Genes or Variables (or, optionally – both)
   • Genes - 
   • Variables - 
 
+Sample Workbooks
+----------------
+The sample workbooks can be found in the menu bar under the Workbooks tab. This has been created to be as a guide for the user to see what is the maximum functionality of the workbooks are.
+Sharing Workbooks
+-----------------
+Manipulation of Workbooks?
+--------------------------
+Creating A Worksheet
+####################
+By selecting the "+" next to an existing worksheet a user can create a new worksheet to create a new analysis. You can give the new worksheet an unique identifier and also give a description for the worksheet. This is ideal by allowing the user to easily have access to different graphs with the same data in the same workbook.
+Worksheet Menu
+===============
+The worksheet will have a section similar to the workbook menu where user can edit, duplicate or delete the worksheet. You can find the worksheet menu bar by clicking the arrow pointing down located next to the name of the worksheet that is opened.
+Edit Details
+-------------
+This function allows the user to edit the name of the worksheet and also give a brief description on the worksheet being used for analysis.
 
+Duplicate
+---------
+This function allows the user to create a duplicate worksheet in the workbook for further analysis and comparison. 
 
-Workbook Creation Page
+Delete
+------
+This function will only appear when you are working with multiple worksheets. This will permanently delete the worksheet from the workbook.
+
+To Complete Analysis
 ====================
+The user must select an analysis type then you must select gene and/or variables to be used and select or create a cohort.
 
+Source Data
+===========
 
-* Concept of worksheets, each with a worksheet to do a sample analysis
- * What Sample Workbooks are
- * Sharing workbooks, not worksheets (like sharing excel files, not excel tabs)
- * Manipulating Workbooks
-  * Renaming Workbook
-  * Editing details of Workbook (is that the same as description?)
-  * Duplicating Workbook
-  * Delete Workbook
-  * Sharing Workbook
- * Worksheets
-  * Why would you create a worksheet
-  * Panels in worksheet creation, description of what they are
-  * Rules to create them (description at bottom)
-  * Functions of Source Data Panel
-  * Function of Analysis Type
-  * Functions of Garbage, Select, Pencil (be sure to present icons in documentation so users can see what you are referring to). Also how to use them.
-  * What Comment mean, why would you use comments, can you edit comments?
-  * Description of options to plot determined by what is populated
-  * Manipulating Worksheets
-   * How to get there (dropdown arrow)
-   * Edit Details
-   * Duplicate
-  * Plot manipulations (Plot Settings)
-   * X Axis, Y Axis, Swap
-   * Color by Feature
-   * Color by Cohort
-   * Update Plot
+Gene list
+---------
+Gene Favorites list allows you to save selected information from a wide range of Gene identifiers to be used for analysis. 
+
+By clicking 'Gene'  or the '+' symbol you will be directed to the Gene Favorites table where the user can either create a new gene list or choose from an existing gene favorites list. The user can also add multiple gene favorites lists to the worksheet if desired. More information about Gene Favorites list can be found here(link to Gene Favorites list documentation)
+
+Variable Favorites List
+-----------------------
+Variable Favorites list allows you to save selected information from a wide range of Data types to be used for analysis. 
+
+By clicking 'Variables' or the '+' symbol you will be directed to the Gene Favorites table where the user can either create a new variable favorites list or choose from an existing variable favorites list. The user can also add multiple variable favorites lists to the worksheet if desired. More information about Variable Favorites list can be found here(link to Variable Favorites list documentation)
+
+Cohorts
+-------
+Cohorts allow the user to create custom groupings of the samples and/or participants that can be used for further analysis.
+
+By clicking 'Cohorts' or the '+' symbol you will be directed to the Cohorts table where the user can either create a new cohort or choose from an existing cohorts. The user can also add multiple Cohorts to the worksheet if desired. More information about Cohorts can be found here(link to Cohorts documentation)
+
+Analysis Type
+=============
+The Sample Analyses provide you with the ability to quickly create a new analysis chart or plot to compare worksheets or workbooks. 
+
+Bar Chart
+---------
+This bar chart generates vertical lines to represent the type of data being used. One axis shows the information being used while the other is the y axis data chosen in the edit analysis settings. 
+
+Histogram
+---------
+Scatter Plot
+------------
+Violin Plot
+------------
+Violin Plot with axis swap
+--------------------------
+Chubby Hole Plot
+----------------
+
+Edit Analysis Settings
+======================
+This is where the user can find the plot settings used to generate the graphs.
+
+X-Axis Variable
+----------------
+
+Y-Axis Variable
+----------------
+
+Color By Feature
+----------------
+Cohorts
+-------
+Update Plot Button
+------------------
+
+Marque Icon (insert photo of icon)
+==================================
+Toggle between zoom/pan and selection.
+
+Comments Section
+=================
+Any user who owns or has had a cohort shared with them can comment on it. To open comments, use the comments button at the top right and select “Comments”. A sidebar will appear on the right side and any previously created comments will be shown.
+
+On the bottom of the comments sidebar, you can create a new comment and save it. It should appear at the bottom of the list of comments.
 
