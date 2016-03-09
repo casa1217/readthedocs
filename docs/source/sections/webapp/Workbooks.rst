@@ -23,7 +23,7 @@ To create a workbook from Your Dashboard, click on the “Create a New Workbook�
 From the Workbook creation panel you will first select one of six analysis types (i.e., Bar chart, Histogram, Scatter Plot, Violin Plot, Violin Plot Axis swap or Chubby Hole Plot). 
 
 You will then select **Genes or Variables** (or, optionally – both)
-  • **Genes** - (this will display previously created “Gene Favorites” (see `Gene Favorites <http://test>`_ for details) or you can apply a “New Gene List”).
+  • **Genes** - (this will display previously created “Gene Favorites” which can be “Applied to Analysis" (see `Gene Favorites <http://test>`_ for details) or you can apply / create a “New Gene List”).
 
 **When Creating a New Gene List** -
 
@@ -36,7 +36,20 @@ To aid in Gene selection, you can access the HGNC portal (Hugo Gene Nomenclature
 
 
 
-  • **Variables** - 
+  • **Variables** - (this will display previously created “Variable Favorites” which can be “Applied to Analysis" (see `Variable Favorites <http://test>`_ for details) or you can apply / create a “New Variable List”).
+
+**When Creating a New Variable List** -
+
+You begin by naming the new Variable; the Variable you create here will automatically be added to your Variable Favorites list and can be applied to other analysis later.
+
+Next you can select variables from four (4) available data sources to incorporate in your Variable-
+  • *Common Variables* (14 options)
+  • *Favorite(s)* (previously created variables which were Saved)
+  • *Clinical* (over 46 options)
+  • *MIRNA* (filter by - miRNA Name, Platform, Value, Feature)
+
+Then **“Apply to Worksheet”**
+
 
 Analysis Type Description
 -------------------------
@@ -61,12 +74,15 @@ Sharing Workbooks
 -----------------
 Manipulation of Workbooks?
 --------------------------
+
 Creating A Worksheet
 ---------------------
 By selecting the "+" next to an existing worksheet a user can create a new worksheet to create a new analysis. You can give the new worksheet an unique identifier and also give a description for the worksheet. This is ideal by allowing the user to easily have access to different graphs with the same data in the same workbook.
+
 Worksheet Menu
 ===============
 The worksheet will have a section similar to the workbook menu where user can edit, duplicate or delete the worksheet. You can find the worksheet menu bar by clicking the arrow pointing down located next to the name of the worksheet that is opened.
+
 Edit Details
 -------------
 This function allows the user to edit the name of the worksheet and also give a brief description on the worksheet being used for analysis.
@@ -114,17 +130,10 @@ Edit Analysis Settings
 This is where the user can find the plot settings used to generate the graphs.
 
 X-Axis Variable
-----------------
-
 Y-Axis Variable
-----------------
-
 Color By Feature
-----------------
 Cohorts
--------
 Update Plot Button
-------------------
 
 Marque Icon (insert photo of icon)
 ==================================
