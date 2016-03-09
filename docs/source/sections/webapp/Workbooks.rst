@@ -1,9 +1,7 @@
 *******************
 Workbooks
 *******************
-Workbooks store the Analyses you create -- and their related data. Basically, the worksheets you create to conduct analysis based on the source data selected (i.e. Genes, Variables and Cohorts).  
-
-Workbooks can be used to:
+Workbooks store the Analyses you create -- and their related data. Basically, the worksheets you create to conduct analysis based on the source data selected (i.e. Genes, Variables and Cohorts).  Workbooks can be used to:
   • Group together multiple related analyses,
   • Share analysis results with specific groups of people,
 
@@ -31,12 +29,13 @@ You will then select Genes or Variables (or, optionally – both)
 Sample Workbooks
 ----------------
 The sample workbooks can be found in the menu bar under the Workbooks tab. This has been created to be as a guide for the user to see what is the maximum functionality of the workbooks are.
+
 Sharing Workbooks
 -----------------
 Manipulation of Workbooks?
 --------------------------
 Creating A Worksheet
-####################
+---------------------
 By selecting the "+" next to an existing worksheet a user can create a new worksheet to create a new analysis. You can give the new worksheet an unique identifier and also give a description for the worksheet. This is ideal by allowing the user to easily have access to different graphs with the same data in the same workbook.
 Worksheet Menu
 ===============
@@ -123,4 +122,3 @@ Comments Section
 Any user who owns or has had a cohort shared with them can comment on it. To open comments, use the comments button at the top right and select “Comments”. A sidebar will appear on the right side and any previously created comments will be shown.
 
 On the bottom of the comments sidebar, you can create a new comment and save it. It should appear at the bottom of the list of comments.
-
