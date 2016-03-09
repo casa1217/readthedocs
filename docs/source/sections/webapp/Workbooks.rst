@@ -1,7 +1,9 @@
 *******************
 Workbooks
 *******************
-Workbooks store the Analyses you create -- and their related data. Basically, the worksheets you create to conduct analysis based on the source data selected (i.e. Genes, Variables and Cohorts).  Workbooks can be used to:
+Workbooks store the Analyses you create -- and their related data. Basically, the worksheets you create to conduct analysis based on the source data selected (i.e. Genes, Variables and Cohorts).  
+
+Workbooks can be used to:
   • Group together multiple related analyses,
   • Share analysis results with specific groups of people,
 
