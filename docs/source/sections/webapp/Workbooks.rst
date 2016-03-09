@@ -1,8 +1,17 @@
 *******************
 Workbooks
 *******************
+Workbooks store the Analyses you create -- and their related data. Basically, the worksheets you create to conduct analysis based on the source data selected (i.e. Genes, Variables and Cohorts).  Workbooks can be used to:
+  • Group together multiple related analyses,
+  • Share analysis results with specific groups of people,
 
-Workbooks are used to group together multiple related analyses, and can be used for sharing groups of analysis results with specific groups of people.  Multiple Sample Analyses can be grouped into Workbooks (and saved for later use, editing, and sharing).  For example, you may have one study involving identifying gene mutations and pathways involved in Head and Neck Cancer (with a given research group) where you keep all the files in one Workbook, and another study with a different group of researchers investigating the average time after diagnosis of death of different lung cancers - stored in another Workbook.  Think of workbooks as virtual "excel spreadsheets" that various related analyses can be created in individual Worksheets and grouped together in one Workbook.
+For example, you can create a workbook (i.e., Study A) which consists of identifying gene mutations and pathways involved in Head and Neck Cancer (and share it with research Group A). 
+
+And create another workbook (i.e., Study B) with a different group of researchers (Group B) investigating the average time after diagnosis of death for different lung cancers.  Think of workbooks as virtual "excel spreadsheets" that various related analyses can be created in individual Worksheets (“Tabs” within the spreadsheet) and grouped together in one Workbook (the overall spreadsheet).
+
+Additionally, you can:
+  • Save a workbook for later use, or
+  • Edit an existing workbook.
 
 Creating and saving a workbook
 ##############################
@@ -14,8 +23,9 @@ To create a workbook from Your Dashboard, click on the “Create a New Workbook�
 From the Workbook creation panel you will first select one of six analysis types (i.e., Bar chart, Histogram, Scatter Plot, Violin Plot, Violin Plot Axis swap or Chubby Hole Plot). 
 
 You will then select Genes or Variables (or, optionally – both)
-•	Genes - 
-•	Variables - 
+  • Genes - 
+  • Variables - 
+
 
 
 Workbook Creation Page
