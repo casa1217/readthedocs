@@ -30,15 +30,15 @@ Analysis Type Description
 -------------------------
 **Bar Chart** - (This bar chart generates vertical lines to represent the type of data being used. One axis shows the information being used while the other is the y axis data chosen in the edit analysis settings). 
 
-**Histogram** - 
+**Histogram** - (need text)
 
-**Scatter Plot** - 
+**Scatter Plot** - (need text)
 
-**Violin Plot** - 
+**Violin Plot** - (need text)
 
-**Violin Plot with axis swap** - 
+**Violin Plot with axis swap** - (need text)
 
-**Chubby Hole Plot** - 
+**Chubby Hole Plot** - (need text)
 
 
 Sample Workbooks
