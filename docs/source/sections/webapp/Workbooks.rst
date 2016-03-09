@@ -22,9 +22,21 @@ To create a workbook from Your Dashboard, click on the “Create a New Workbook�
 
 From the Workbook creation panel you will first select one of six analysis types (i.e., Bar chart, Histogram, Scatter Plot, Violin Plot, Violin Plot Axis swap or Chubby Hole Plot). 
 
-You will then select Genes or Variables (or, optionally – both)
-  • Genes - 
-  • Variables - 
+You will then select **Genes or Variables** (or, optionally – both)
+  • **Genes** - (this will display previously created “Gene Favorites” (see `Gene Favorites <http://test>`_ for details) or you can apply a “New Gene List”).
+
+**When Creating a New Gene List** -
+
+You begin by naming the data set (Gene Type or Project Specific); the Gene list you create here will automatically be added to your Gene Favorites list and can be selected for additional analysis later.
+
+Next select the Gene(s) you’re interested in (you can upload a specific list you’ve previously created/stored, select new Genes by typing them into the input box (you will see that Genes will auto-display). If duplicate listings are entered they will be marked for your deletion or automatically dropped when saved. If an error or unknown item is entered it will also be flagged for your attention. 
+
+To aid in Gene selection, you can access the HGNC portal (Hugo Gene Nomenclature Committee) via the "`View Gene Identifiers <http://www.genenames.org/>`_
+" link under this Menu selection. This allows you to focus on specific results or queries.
+
+
+
+  • **Variables** - 
 
 Analysis Type Description
 -------------------------
