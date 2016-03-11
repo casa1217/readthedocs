@@ -89,20 +89,6 @@ Manipulation of Workbooks
 **Delete** - This function will only appear when you are working with multiple worksheets. This will permanently delete the worksheet from the workbook.
 
 
-Edit Analysis Settings
-======================
-This is where the user can find the plot settings used to generate the graphs.
-
-X-Axis Variable
-
-Y-Axis Variable
-
-Color By Feature
-
-Cohorts
-
-Update Plot Button
-
 Comments Section
 =================
 Any user who owns or has had a cohort shared with them can comment on it. To open comments, use the comments button at the top right and select “Comments”. A sidebar will appear on the right side and any previously created comments will be shown.
