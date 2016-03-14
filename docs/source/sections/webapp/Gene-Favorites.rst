@@ -18,7 +18,7 @@ To create a new Gene Favorite -
 
 .. image:: Gene_Fav.jpg
    :scale: 50
-   :align: center
+   :align: left
 
 **Terminology Used for Genes**
   * The `National Human Genome Research Institute (NHGRI) <http://www.genome.gov/glossary/index.cfm>`_ created the Talking Glossary of Genetic Terms to help everyone understand the terms and concepts used in genetic research.  In addition to definitions, specialists in the field of genetics share their descriptions of terms, and many terms include images, animation and links to related terms.
